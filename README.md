@@ -1,14 +1,14 @@
-=== Travelscape ===
+=== Travelscape ===  
 
-Contributors: wptravelkit
-Tags: one-column, two-columns, right-sidebar, footer-widgets, custom-background, custom-header, custom-menu, custom-logo, featured-images, threaded-comments, full-width-template, translation-ready, food-and-drink, holiday, entertainment
-Theme URI: https://wptravelkit.com/travelscape-wordpress-theme/
-Requires at least: 5.1
-Tested up to: 6.4
-Requires PHP: 5.6
-Stable tag: 1.0.5
-License: GPL-2.0-or-later
-License URI: https://www.gnu.org/licenses/license-list.html#GPLv2
+Contributors: wptravelkit  
+Tags: one-column, two-columns, right-sidebar, footer-widgets, custom-background, custom-header, custom-menu, custom-logo, featured-images, threaded-comments, full-width-template, translation-ready, food-and-drink, holiday, entertainment  
+Theme URI: https://wptravelkit.com/travelscape-wordpress-theme/  
+Requires at least: 5.1  
+Tested up to: 6.4  
+Requires PHP: 5.6  
+Stable tag: 1.0.5  
+License: GPL-2.0-or-later  
+License URI: https://www.gnu.org/licenses/license-list.html#GPLv2  
 
 == Description ==
 
